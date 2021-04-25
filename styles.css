@@ -1,10 +1,10 @@
-/** {
+* {
   box-sizing: border-box;
-}*/
-
-body {
-  padding-top: 16px;
 }
+
+/*body {
+  padding-top: 16px;
+}*/
 
 .menu-button {
   padding: 16px;
@@ -19,6 +19,7 @@ body {
 }
 
 .dropdown {
+  display: flex;
   margin: 16px;
   position: relative;
 }
