@@ -1,6 +1,6 @@
-* {
+/** {
   box-sizing: border-box;
-}
+}*/
 
 body {
   padding-top: 16px;
@@ -22,6 +22,20 @@ body {
   margin: 16px;
   position: relative;
 }
+
+/*.dropdown {
+  padding: 16px;
+  margin: 16px;
+  background-color: darkgreen;
+  opacity: 0.8;
+  font-size: 16px;
+  color: white;
+  position: relative;
+}
+
+.dropdown:hover {
+  opacity: 1;
+}*/
 
 .menu-list {
   padding: 0;
